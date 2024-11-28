@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/FEU-TECH-Code-Igniter/WST--CODE-UNO-SUMMATIVE">
-    <img src="https://github.com/FEU-TECH-Code-Igniter/WST--CODE-UNO-SUMMATIVE/blob/main/codeUNO%20white.png" alt="codeUNO" width="130" height="130">
+    <img src="https://github.com/FEU-TECH-Code-Igniter/WST--CODE-UNO-SUMMATIVE/blob/main/codeUNO%20white.png" alt="codeUNO" width="1920" height="1080">
   </a>
   <h3 align="center">CodeUNO: A Gadgets E-Commerce Website</h3>
 </div>
